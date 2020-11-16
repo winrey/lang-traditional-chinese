@@ -1,5 +1,5 @@
 {
-  "name": "csineneo/lang-traditional-chinese",
+  "name": "winrey/lang-traditional-chinese",
   "description": "Flarum 正體中文語言包",
   "keywords": [
     "flarum",
@@ -11,17 +11,17 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Csineneo",
-      "email": "csineneo@gmail.com",
-      "homepage": "https://vivaldi.club"
+      "name": "Winrey",
+      "email": "i@iaside.com",
+      "homepage": "https://iaside.com"
     }
   ],
   "support": {
-    "source": "https://github.com/Csineneo/lang-traditional-chinese",
+    "source": "https://github.com/winrey/lang-traditional-chinese",
     "issues": "https://vivaldi.club/t/flarum"
   },
   "require": {
-    "flarum/core": "^0.1.0-beta.13"
+    "flarum/core": "^0.1.0-beta.14"
   },
   "extra": {
     "flarum-extension": {
